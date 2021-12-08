@@ -1,6 +1,6 @@
 ### Opa!! Sou Nicolas Alcantara
 
-- 🌱 Estudando HTML, CSS, JS e PY e viajando pela Web 
+- 🌱 Studying HTML, CSS, JS e PY and surfing on the Web 
 
 <div align="center">
   <a href="https://github.com/alcantara001">
