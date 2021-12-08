@@ -1,4 +1,4 @@
-### Opa!! Sou Nicolas Alcantara
+### Hey!! I'm Nicolas Alcantara
 
 - 🌱 Studying HTML, CSS, JS e PY and surfing on the Web 
 
