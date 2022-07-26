@@ -1,6 +1,6 @@
 ### Hey!! I'm Nicolas Alcantara
 
-- 🌱 Studying MYSQL, HTML, CSS, JS, PY, C# and surfing on the Web<3. 
+- 🌱 Studying MYSQL, HTML, CSS, JS, PHP, SQL and surfing on the Web<3. 
 
 <div align="center">
   <a href="https://github.com/alcantara001">
